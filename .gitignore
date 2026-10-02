@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.pkl
+*.pickle
+*.joblib
+.cache/
+.cache/huggingface/
+.cache/torch/
+.huggingface/
+hf_cache/
+.cache/spacy/
+.kagglehub/
