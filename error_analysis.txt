@@ -1,0 +1,1336 @@
+Анализ ошибок модели (LogReg + Lemmatization)
+Всего ошибок: 333 из 1169
+================================================================================
+
+Текст: nordic business report-26 june 2006-metso corporation wins eur50m equipment order in australia -® 1998-2006 m2 communications ltd the finnish engineering and technology group metso corporation said on monday ( 26 june ) that it has received a eur50m equipment order in australia .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: in q2 of 2009 , profit before taxes amounted to eur 13.6 mn , down from eur 26.8 mn in q2 of 2008 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $nflx i say it's time to short at this point.
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: finnish kemira 's net sales eur decreased to eur 1,259.6 mn in january-june 2009 from eur 1,425.1 mn in january-june 2008 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the liquidity providing was interrupted on may 11 , 2007 when aspocomp group oyj 's shares traded below 0.50 cent ( aspocomp 's stock exchange release 11.5.2007 ) .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: tesco set to sell kipa, giraffe businesses - sky news
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: $gps gap september comparable store sales -4%
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: intertek group announces strategic update outlining its plan
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: ceos of bpm, ubi meet italy econ minister as m&a talk heats up
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: under the terms of the off-take agreement with talvivaara , cameco will provide an up-front investment , to a maximum of $ 60 million , to cover the construction cost of the uranium extraction circuit .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: s&p has kept its `` sell '' rating , while nordea and ubs have reaffirmed their `` buy '' recommendations .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: casinos red before the bell: $lvs -0.75%, $wynn -0.47%, $wynn -0.47% > unusual comibinations of what's running, what's red before the bell
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $aapl now i'm glad i got stopped out of my $113 weeklies when i did. will re-enter next monday for the #earnings run-up.
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: 3rd red day in a row ? $tsla
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: `` those uncertainties cloud the long-term outlook . ''
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $yhoo fishy action. new party interested (dailymail) bounce & retreats. not short by any means, but action questions big up move. thoughts?
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: $yelp wayyy overvalued right now imo. should be trading single digits. may take a short pos. into earnings. near term target 18 ......
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: russia wants to utilise its huge forest reserves in a very different way from what has been done so far .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: finnish construction company yit is reducing the number of start-ups of market-financed residential units in 2007 to about 2,300 from the previously announced 2,700 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: berkshire hathaway names kara raiguel to lead general re unit
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: pretax loss totaled eur 117mn compared to a loss of eur 65mn in the corresponding period .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: the company 's profit before taxes fell to eur 21.1 mn in the third quarter of 2008 , compared to eur 35.8 mn in the corresponding period in 2007 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: self-service and automation are in a bigger role now and fujitsu 's global resources will be exploited effectively .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: tornio works employs 2,300 of whom more than 1,800 have been in the scope of the fixed-period or part-time temporary layoffs in april-october period .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: alma media 's operating profit amounted to eur 11.9 mn , down from eur 15.0 mn a year earlier .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: sales were down 14 per cent in finland and up 27 per cent abroad where sales were lifted by the strong growth in sales in russia and lithuania .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: shell's $70 billion bg deal meets shareholder skepticism
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the announcement pushed freenet shares down 6.3 % , or eur0 .71 , in frankfurt trade to eur10 .65 as investors gave up hope united internet ag and drillisch would pursue their own takeover and breakup of freenet .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: scanfil will execute the temporary lay-offs by mid-october 2009 and the job cuts by march 2010 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: metso estimates the need for personnel reductions to amount to 25 people .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: as part of the transaction , m-real and sappi have also signed a long-term agreement on the supply of pulp and bctmp and other smaller services and supplies .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: ebit totalled eur 14.4 mn , compared to a loss of eur 0.3 mn in the corresponding period in 2009 .
+Истинный класс: positive (2)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: however , sales volumes in the food industry are expected to remain at relatively good levels in finland and in scandinavia , atria said .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: rbs pays $1.7 billion to scrap u.k. treasury's dividend rights
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: word on the street is that allergen is looking at endo international after the failed pfizer merger. may-20 $35 calls active. $endp
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: so far , mr. galvan he has been able to avoid laying off workers .
+Истинный класс: positive (2)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: industry newswolseley confident in reslilience amid mixed markets
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: insight hires aviva's david hillier for multi-asset team
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: altogether 150 subjects with mildly elevated cholesterol levels participated in the four-month long intervention .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: qualcomm estimated a first-quarter profit between 46 and 50 cents a share , excluding certain items , below the analyst estimate of 61 cents a share .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the number of bodily injury cases quadrupled in 2000-2006 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: so far the company has awarded more than $ 350,000 worth of tools and materials .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: $aapl short term fund/redemption liquidations.. should have the channel cleared soon and on solid footing. $520 is new floor come july! :)
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: update 3-bp settles oil spill-related claims with halliburton, transocean
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: net profit in the three months through march 31 fell to ( x20ac ) 103 million ( us$ 165 million ) from ( x20ac ) 131 million a year earlier , the finnish company said .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: last year , upm cut production , closed mills in finland and slashed 700 jobs .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: cargo traffic fell 1 % year-on-year to 8,561 tonnes in september 2009 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: the fair value of the company 's investment properties grew to eur 2.803 billion at the end of march 2009 from eur 2.691 million a year ago .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the company confirmed its estimate for lower revenue for the whole 2009 than the year-ago eur 93.9 million usd 137.3 m as given in the interim report on august 5 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: @nasdboy i think the dnf crew can get this $nflx short into the next 30 days heading into earnings
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: operating profit excluding non-recurring items totaled eur 5.4 mn compared to eur 5.5 mn in the corresponding period in 2007 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the federal secretary for transport and communication of mexico has awarded poyry and its mexican partner sintra a consulting contract in connection with the buenavista-cuautitlan suburban railway .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $aapl rejected the hod...should head lower. sitting on the sidelines for now.
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: key price to watch in $nflx, off the previous double top reject, 218.23 http://stks.co/siyn
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: refile-aviva investors to move 34 bln euros in assets from axa fund arm
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: combined with the basware enterprise purchase to pay portfolio , it provides a high level of automation for procurement and invoice workflows .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: `` russia is ready to participate in an open tender for lattelecom 's privatization .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: tesco abandons video-streaming ambitions in blinkbox sale
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: metsaliitto said that it will book a minor gain of less than eur1 .0 m from the transaction .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: `` the purchase of the operations is part of yit 's strategy to expand its offering of building system services geographically . ''
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: barclays plc ( lse : barc ) ( nyse : bcs ) , credit agricole sa ( epa : aca ) ( cagr .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: the workforce will be reduced also in the amsterdam office , in the netherlands .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the company plans to increase the unit 's specialist staff to several dozen -- depending on the market situation during 2010 .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: finnish forest machinery manufacturer ponsse has issued a profit warning .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $fio won't stay down
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: rt @jan $arna don't think buyout rumor strong enough too be driving this up just yet...when it is this may fly like aapl...// fly how high?
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: the contracts of the employees , 96 of whom are blue-collar workers , will be ended between march and august 2011 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $spy bull move ended waiting for next setup
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: tesco's sales pickup isn't enough
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: 17 march 2011 - goldman sachs estimates that there are negative prospects for the norwegian mobile operations of norway 's telenor asa osl : tel and sweden 's teliasonera ab sto : tlsn in the short term .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the group 's business is balanced by its broad portfolio of sports and presence in all major markets .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: comptel , a vendor of dynamic operations support system ( oss ) software , has been selected by orascom telecom ( oth ) as partner for provisioning and activation solutions for mobile services .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: pretax profit totaled eur 9.0 mn , down from eur 36.3 mn in 2007 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: a total of 16.5 mn passenger ship journeys took place in the northern baltic sea in 2007 , slightly down from 16.5 mn in 2006 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: commencing the construction works of pearl plaza is a significant step in our russian projects .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: @scottrade why is $tsla not available for shorting at this time? same for $w?
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the move was triggered by weak demand for forestry equipment and the uncertain market situation .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $rcon some upside today. this thing is severe low float. if there is catalyst for this guy. it can run.
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $mflx up pre mkt. looks like gap has been filled....lookin 4 short opt here
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: profit for the period totalled eur 1.1 mn , down from eur 1.6 mn in the third quarter of 2008 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: arm slammed by handset sales outlook
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: 23 april 2010 - finnish construction and engineering company outotec oyj hel : ote1v said today it slipped to a net loss of eur7 .3 m in the first quarter of 2010 from a net profit of eur12 .5 m in the corresponding period last year .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: @cgrantwsj i think this $tsla bubble might go on for some time. so long as ppl love the cars, they might keep getting funding.
+Истинный класс: positive (2)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: to ensure low operational cost for radio networks , the bts modules can be configured , software upgraded and diagnosed remotely .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: comparable operating profit decreased to eur 13.8 mn from eur 17.1 mn in the corresponding period in 2005 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: at 1411 cet , arcelormittal had lost 7.26 % to eur 17.38 on euronext paris , coming at the lead of the blue-chip fallers .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: in 2009 , stora enso 's net loss was eur 879.7 million compared to eur 673.4 million in the previous year .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: belarus oao lidskoe pivo brewery , based in the grodno region , reported a 1.1 % decrease in output to 1.045 million decaliters in january-march 2010 , a representative in the administration of the company told .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: order intake , on the other hand , is expected to be stronger than in 2007 .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $aapl broke descending channel....will it hold?
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: nyse owner ice may gatecrash deutsche boerse-lse merger
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: at the same time i am delighted by the fact that we were able to accomplish the organization with our own team members .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: stora enso 's target has been cut to eur 4.85 from eur 5.55 and holmen 's target -- to sek 135 from sek 150 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: operating profit fell to eur 38.1 mn from eur 55.3 mn in 2007 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the estonian electronic components factory , elcoteq , is running out of material because of the closure of air traffic .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: micron shares pounded on fears of loss of business from apple; stifel defends $aapl $mu http://stks.co/t1z8t @marjo
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: shares in royal and sun alliance continued to slide back from a 12-month high of 172p last month , after a potential suitor ruled itself out of a takeover bid .
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: viking line has canceled some services .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: $nflx +3% of the lows
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $spy extreme win today - 2 cents above 2009 low on 10-year and $spy up 2 percent - life is a bowl of cherries - great short setting up $$
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: strand associates is expanding its madison corporate headquarters with space to add about 100 employees to the engineering firm .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: upm said the move will lower net profit by x20ac 385 million us$ 520 million in the second quarter , mainly due to impairment charges .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: sports equipment sales also progressed well owing to the prolonged winter season .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: at the end of march 2007 , the group 's order book was at eur 39.6 mn , up 42 % from the corresponding period in 2006 .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: finnish bore that is owned by the rettig family has grown recently through the acquisition of smaller shipping companies .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: operating profit in the fourth quarter went down to eur3m from eur4 .2 m for the corresponding period of 2009 as it included costs of growth projects .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: according to ceo kai telanne , the company 's newspapers achieved the best financial result ever .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: - demand for fireplace products was lower than expected , especially in germany .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: the service is intended to allow the people of thirteen mediterranean countries to reach the baltic more rapidly , with a single carrier .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $jd down 20% in after-hour market. anyone care to explain why?
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: helsinki ( afx ) - metso said it will upgrade one of upm-kymmene 's four paper machines at the latter 's mill in jaemsaenkoski with a new coating color supply system , machine and process controls and quality measurements .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $aapl price momentum weakening going into the close.
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: ruukki romania , the local arm of finnish metal producer ruukki , increased its capital by 900,000 euro ( $ 1.14 mln ) through cash contribution , it was reported on september 19 , 2006 .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: meanwhile , nokia said that it will be able to deliver a complete range of services from deployment operations to consulting and integration to managed services as a result of the buyout .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $jnk http://stks.co/2fcm does not want to go down... risk appetite still high
+Истинный класс: positive (2)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: the fair value of the company 's investment properties went down to eur2 .769 bn at the end of september 2009 from eur2 .878 bn a year earlier .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: jan. 6 -- ford is struggling in the face of slowing truck and suv sales and a surfeit of up-to-date , gotta-have cars .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: - net sales for the period are expected to fall well below that of last year and the result after non-recurring items is expected to be in the red .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: peer peugeot fell 0.81 pct as its sales rose only 6.3 pct from the same period last year .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: the financial impact is estimated to be some 1.5 meur annual improvement in the division 's result , starting from fiscal year 2007 .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: after the transaction , alma media raised its stake in talentum to 30.65 % of the shares and some 31.12 % of voting rights .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the court found telecominvest 's arguments convincing .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: a portion , $ 12.5 million , will be recorded as part of its winnings in a prior patent dispute with finnish phone maker nokia oyj .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: subscription sales decreased slightly .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: ` by separating side businesses we will be able to faster expand and develop tapro retail network .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: finnish investment group norvestia oyj said its net profit fell to 23.5 mln euro $ 30.6 mln in 2006 from 33.5 mln euro $ 43.6 mln in 2005 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: earnings per share ( eps ) amounted to a loss of eur0 .38 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: goodwin not to face scottish prosecution over rbs
+Истинный класс: positive (2)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: comparable operating profit totaled eur 4.7 mn , down from eur 5.1 mn in the corresponding period in 2005 , representing 7.4 % of net sales .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: this is the second successful effort for the financial investor this year .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: operating profit excluding non-recurring items amounted to eur 40.6 mn , down from eur 57.3 mn year-on-year .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: finnish silicon wafer technology company okmetic oyj omx helsinki : okm1v reported on thursday 30 october an operating profit of eur7 .4 m for january-september 2008 , up from eur6 .1 m in the corresponding period in 2007 .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: that bearish outside day tuesday is significant. 200 day resistance still intact. just my opinion $sds http://chart.ly/2bey48t
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: copper , lead and nickel also dropped ... hbos ( hbos ) plummeted 20 % to 70.3 pence after saying this year+ó ??
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: finnish exel composites , a technology company that designs , manufactures , and markets composite profiles and tubes for various industrial applications , reports its net sales decreased by 0.6 % in the second quarter of 2010 to eur 19.2 mn from eur 19.3 mn in the corresponding period in 2009 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: tesco criticised for 'disgraceful' advert showing domestic worker being slapped
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $siga bid for reargument denied by judge
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: `` small firms are suffering at the moment because they are likely to have money trouble , '' he added .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: finnair 's tallinn-based subsidiary , aero as , carried 23,335 passengers , a decline of 60.8 % , on routes between helsinki and the baltic capitals and within southern finland .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: operating profit fell from eur 7.9 mn in the second quarter of 2005 to eur 5.1 mn in the second quarter of 2006 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the seminar introduced modern , clean technologies and products , financial tools and sponsorship programs for energy and environment projects as well as the potential to develop clean energy in vietnam .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: shire share price under pressure after $32bn baxalta deal
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: 3-star analyst joe wittine from longbow research reiterated a hold rating on $ntap.
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the operating loss amounted to eur 0.8 mn , compared to a profit of eur 3.9 mn a year earlier .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: ragutis , which is controlled by the finnish brewery , reported a 5.4-per-cent rise in beer sales to 10.44 million litres and held an 11.09-per-cent market share .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: lassila & tikanoja 's operating profit excluding non-recurring and imputed items for the second quarter was eur11 .3 m , down from eur13 .8 m a year ago .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: new credit suisse boss faces stiff challenge in asia
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: hobby hall 's sales decrease 26 pct due to implementing a new information system that involved changing in the principal of posting sales .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: return on investment roi was 4.1 % compared to 43.8 % in the first half of 2008 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $renn topping tail 5 min. chart at 7.31 short from here.
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: as a result , the company will temporarily lay-off 25 % of the whole personnel , approximately 270 persons at kirkkonummi and nivala factories .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: operating profit margin was 8.3 % , compared to 11.8 % a year earlier .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: the earnings per share for the quarter came in at 0.25 eur , up from the 0.20 eur of the same quarter a year earlier .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: after barclays and bank of america, citigroup has blockchain in sight
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: adpnews - jul 17 , 2009 - finland-based steel maker rautaruukki oyj ruukki hel : rtrks said today it slipped to a net loss of eur 184 million usd 259.7 m for the first half of 2009 from a net profit of eur 2
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: via the move , the company aims annual savings of some eur 3 million usd 4.3 m , the main part of which are expected to be realized this year .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: finnish technology company raute corporation ( omx helsinki : rutav ) issued on tuesday ( 23 september ) a profit warning for the financial year 2008 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: rivals say qualcomm has fewer patents on 3g phones than on earlier versions and should lower its rates .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: companieshome retail trims gains but is considered 'in play'
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: finnish bank of +àland +àlandsbanken has issued a profit warning .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: paper maker stora enso oyj said friday it has been acquitted of charges that it participated in a paper price-fixing conspiracy in the united states .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: operating loss totaled eur 25mn compared to a profit of eur 63mn in the corresponding period in 2005 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: all rights reserved .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: the company still expects its turnover in 2010 to slightly increase from the level of 2009 , adding that `` market predictability is still too poor for trustworthy forecasts on the market development of the contract manufacturing business during the current year '' .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: dealers said the share was largely hit by investor disappointment about a refining margin of just 9.48 usd per barrel for the quarter and the performance of its shipping unit , which saw ebit drop to 5 mln eur from 20 mln eur a year amid a fall in volumes and tanker rates .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: in finland 's hobby hall 's sales decreased by 10 % , and international sales fell by 19 % .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: finnish shipping company finnlines ' pretax loss totalled eur 6.5 mn in the third quarter of 2009 , compared to a profit of eur 0.3 mn in the third quarter of 2008 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: significance : teleste has emphasised that with its large size and growing economy , as well as the rapid development of its tv services distribution industry , poland is viewed as an attractive market .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: sanofi poaches astrazeneca scientist as new research head
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: the currency effect had a 3.0 pct , or 20 mln euro ( $ 31.3 mln ) , negative impact on the revenue .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: petrofac books further â£30m cost for shetland gas terminal delays
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: the company reports a loss for the period of eur 0.4 mn compared to a loss of eur 1.9 mn in the corresponding period in 2005 .
+Истинный класс: positive (2)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: rt @joemccann the correleation between the dollar index and $spy is simply amazing. $dx finds support, $spy retreats like clockwork
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: helsinki ( thomson financial ) - m-real said it will exercise an option to buy a 50mw natural gas power plant and land in kyroskoski , finland , for around 13 mln eur from kyro oyj .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: as a result some 20 persons will no longer be needed .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: a survey conducted by taloustutkimus for sampo life shows that companies are badly prepared to losing key staff members .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: pharmaceuticals group orion corp reported a fall in its third-quarter earnings that were hit by larger expenditures on r&d and marketing .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: the fair value of the property portfolio doubled as a result of the kapiteeli acquisition and totalled eur 2,686.2 1,259.7 million .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: rising costs have forced packaging producer huhtamaki to axe 90 jobs at its hampshire manufacturing plant .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: european shares plunge, roiled by bhp and oil; hopes turn to ecb
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: a total of 140 jobs will be reduced at the raahe steel works .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: diluted earnings per share ( eps ) fell to eur 0.63 from eur 1.71 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: sales of mid-strength beer decreased by 40 % .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the airline 's share price closed down slightly at ( x20ac ) 12.51 ( $ 15us .74 ) in helsinki .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: `` the lowering of prices by us and by our competitors shows that the real estate market has stabilised and returned into balance and apartments are acquiring a fair price in the eyes of our clients .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: glaston 's net profit for the third quarter of 2007 dropped to 2.4 mln euro ( $ 3.5 mln ) from 3.5 mln euro ( $ 5.1 mln ) for the corresponding period of 2006 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the company said that it will supply the wcdma 3g-hspa radio network , including the modular , high capacity nokia flexi wcdma base station in east java , bali , sumatra and batam .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: as a result of these negotiations the company has decided to make 45 people redundant on financial and production grounds .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the finnish daily kauppalehti surmises that finnish supplier rautaruukki has raised its prices above aker 's comfort zone .
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: the 50-50 joint venture , to be called nokia siemens networks , will be comprised of nokia 's network business group and siemens ' carrier-related operations , creating estimated synergies of 1.5 billion euros ( $ 1.9 billion ) by 2010 , nokia said .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the agreement expands tekla structures ' scope of use to bridge design .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: ssh establishes new global sales and marketing group to be led by george adams ; adams establishes global sales and marketing group to drive worldwide programs supporting ssh tectia enterprise security solutions
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: at the same time , sales development in russia was boosted by the opening of stockmann nevsky centre in st petersburg .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the prices of stainless steel also rose in europe .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: $fb rejecting highs shortable...at 109
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: $gld http://stks.co/44ow on closer inspection. resistance 10 points north at 200d and downward trendline. chart 2 of 2.
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: raute reported a loss per share of eur0 .86 for the first half of 2009 , against eps of eur0 .74 in the corresponding period of 2008 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: academics claim google android two-factor authentication is breakable. #security #authentication #hacking $goog https://t.co/njx4mnrglo
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: in the baltic countries , sales fell by 40.2 % , and in russia , by 23.2 % in terms of euros , and by 10.7 % in terms of local currency .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: it generated an operating loss of eur 96.3 mn , down from a profit of eur 43.9 mn .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: net sales in 2007 are expected to be 10 % up on 2006 .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: france raises concerns over proposed lse-deutsche boerse deal
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: the original name componenta +àm+ñl , as a subsidiary of the finnish componenta group , has been changed to +àm+ñl components and the company has seen a 63 % growth in q1 2010 , in comparison to q1 2009 .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: finnish scanfil , a systems supplier and contract manufacturer to the communications sector and the electronics industry , reports its net sales totalled eur 94.7 mn in the first half of 2010 , down from eur 99.5 mn in the first half of 2009 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: therefore , the company 's 2005 result will remain weaker than that of 2004 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: operating profit fell to eur 15.1 mn from eur 24.6 mn in 2006 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: the refining margin for the year was $ 13.39 - bbl , compared to $ 10.46 - bbl in the prior year .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: previously , eb delivered a custom solution for lg electronics and now is making it commercially available for other mobile terminal vendors as well as to wireless operators .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the commission is to be applauded for applying a fact-based and data-driven approach and for providing clarity for future petitions .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: finnish media company talentum oyj 's net profit decreased to 2.5 mln euro ( $ 4.0 mln ) for the first quarter of 2008 from 3.0 mln euro ( $ 4.7 mln ) for the same period of 2007 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: lifetree was founded in 2000 , and its revenues have risen on an average by 40 % with margins in late 30s .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: making matters more difficult , the company said it has been grappling with higher oil and gas prices , which have pushed up the cost of energy , raw materials and transportation .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: amer , which bought salomon from adidas in october , said the job cuts are aimed at boosting competitiveness .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: tesco breaks its downward slide by cutting sales decline in half
+Истинный класс: positive (2)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: the company anticipates its turnover for the whole 2010 to surpass that of the previous year when it was eur 67.1 million .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: europe however remains an important and strong market for us .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: the negotiation has resulted in the reduction of 80 people in regular employment , around half of which will be covered with pension arrangements .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: tesco share price steady as analysts weigh in on results
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: this transaction will also rationalize our pulp and paper industry related solutions .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: `` the change will optimize the operational efficiencies of our growing business , '' said julia prohaska , director of marketing communications for fiskars .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: finnish software and hardware developer elektrobit oyj hel : ebg1v , or eb , said today it will temporarily lay off up to 200 people for a maximum of 90 day in finland , aiming to achieve cost savings of eur 1.7 million usd 2m in the second half of 2010 .
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: tullow oil suspends dividend amid oil price fall
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: finnish plumbing and heating systems supplier uponor 's net sales in continuing business operations decreased to eur 249.1 mn in july-september 2008 , compared to eur 262.1 mn in the third quarter of 2007 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: finnish electronics contract manufacturer scanfil reports net sales of eur 241.2 mn in 2006 , down from eur 321.6 mn in 2005 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: finnish forest machinery and equipment maker ponsse oyj said on october 5 , 2007 it will deliver a total of 67 cut-to-length method forest machines and 44 harvester heads to brazilian paper maker bahia pulp and to unnamed uruguayan wood harvesting contractors .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: russian export duties will activate harvesting in finland , and sales in russia will increase also .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: sales at the tiimari business went down by 8 % to eur 11.8 million , while gallerix stores saw 29 % growth to eur 2 million .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: helsinki thomson financial - shares in cargotec fell sharply in early afternoon trade after the cargo handling group posted a surprise drop in april-june profits , which overshadowed the large number of new orders received during the three months .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: @saltwaternurse $ino can test 10 again in next few days. time to take some profits here. or hedge with puts.
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: the company 's profit totaled ls 578,100 in h1 2007 , down 30.9 % year-on-year .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the company expects its net sales in the first half of 2008 to reach the previous year 's level .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: basware order matching automatically matches purchase invoices with approved purchase orders .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: finnish metso will supply new wood handling and bleaching lines , as well as a rebuild of the kraft liner washing line for klabin 's tel+¬maco borba mill in the brazilian state of paran+í .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: repeats sees 2008 operating profit down y-y ( reporting by helsinki newsroom ) keywords : tecnomen-results
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: kone shares dropped 4.1 percent to x20ac 43 us$ 55.77 in helsinki .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: international operations accounted for over 80 % of net sales .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: operating profit decreased to nearly eur 1.7 mn , however .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: net sales decreased to eur 91.6 mn from eur 109mn in the corresponding period in 2005 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: profit before taxes amounted to eur 56.5 mn , down from eur 232.9 mn a year ago .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: temporary lay-offs , affecting the entire workforce , will also be implemented .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: performance in the second half of 2009 exceeded expectations .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: in january-august 2009 , imports by sea in container , lorry , and trailer units fell by 27.7 % and exports by 28.6 % from the corresponding period in 2008 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the aim is an annual improvement in ruukki construction 's operating profit of more than eur 3 million usd 4.1 m starting in 2009 .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: singapore ( icis ) -- ( 1 ) kemira and indian water infrastructure firm ( 2 ) ivrcl have agreed to form a join venture which includes a new inorganic coagulant manufacturing facility in andhra pradesh state , india , the finnish water treatment chemicals maker said on tuesday .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: finnish power supply solutions and systems provider efore oyj said its net loss widened to 3.2 mln euro $ 4.2 mln for the first quarter of fiscal 2006-2007 ending october 31 , 2007 from 900,000 euro $ 1.2 mln for the same period of fiscal 2005-06 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: $amzn 4 period rsi is down at 20, just read connors book on trading strategies
+Истинный класс: positive (2)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: the company said that it has started to investigate streamlining its operations in order to meet the tightening competition on the mobile phone charger market .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: `` uncommonly weak snow conditions in nearly every market have affected our first quarter result , '' chief executive roger talermo said .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: s&p downgrades barclays and rbs on government bailout fears
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: however , the growth margin slowed down due to the financial crisis .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: seppala transferred the sale to a greater extent than last year to february , and this is reflected on the january sales figures .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: 7 march 2011 - finnish it company digia oyj hel : dig1v announced today an agreement with mobile-phone major nokia oyj hel : nok1v to acquire the commercial licensing and service business related to nokia 's qt technology .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: operating profit for the 12-month period decreased from eur17 .9 m while net sales increased from eur58 .3 m , as compared to 2007 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: earnings per share were higher at 0.48 against 0.37 a year before and ahead of market consensus of 0.40 eur .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the tightened competition situation in the production automation market has affected net sales during 2006 , cencorp said .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the core of solidium 's investment strategy is proper , value enhancing asset management of the current holdings .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: in finland , the city of forssa has said it will not pay compensation to food industry companies hk ruokatalo and atria for the lye leak into tap water that occurred in march 2008 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: her last position in nokia siemens networks was head of business human resources nsn global it .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: as a result , the distribution companies will start to distribute , in addition to their current product offering , shimano reels , rods and other shimano fishing tackle products on an exclusive basis .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: of the price , kesko 's share is 10 mln euro $ 15.5 mln and it will recognize a gain of 4.0 mln euro $ 6.2 mln on the disposal which will be included in the result for the second quarter of 2008 .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the sale will result in a capital loss of eur5m for solidium , which obtained tikkurila shares in march 2010 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: as a result of the negotiations the employment of 130 blue - and white-collar employees at the oulu plant would be terminated .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: in the building and home improvement trade , sales decreased by 22.5 % to eur 201.4 mn .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $slw is down, but weekly $34 calls (-28.95%), .23 x .25 have 321 volume. worth a chance here, jmho: http://stks.co/1qfg
+Истинный класс: positive (2)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: teliasonera 's underlying results however included 457 mln skr in positive one-offs , hence the adjusted underlying ebitda actually amounts to 7.309 bln skr , clearly below expectations , analysts said .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: a purchase agreement for 7,200 tons of gasoline with delivery at the hamina terminal , finland , was signed with neste oil oyj at the average platts index for this september plus eight us dollars per month .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: london marketwatch -- share prices ended lower in london monday as a rebound in bank stocks failed to offset broader weakness for the ftse 100 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: kone said in court papers that the union action delayed repairs to elevators at the federal courthouse on jan. 21 and the saltonstall state office building on jan. 23 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: helsinki thomson financial - shares closed little changed , with cargotec and huhtamaki dropping sharply on disappointing second-quarter reports .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: teliasonera has secured deliveries for 4g modems with support for 3g and 2g during the second quarter 2010 .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the low capacity utilisation rate in steel production considerably increases the fixed costs per unit of steel produced .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: operating loss amounted to eur 0.7 mn compared to a profit of eur 0.8 mn in the second quarter of 2005 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: small investors have voiced fears that the shares will end up with risk investors .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: markets had been expecting a poor performance , and the company 's stock was up 6 percent at x20ac 23.89 us$ 33.84 in early afternoon trading in helsinki .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: sales in finland decreased by 2.0 % , and international sales decreased by 9.3 % in terms of euros , and by 15.1 % in terms of local currencies .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the coca-cola company and coca-cola femsa to acquire ades soy-based beverage business from unilever
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: it is necessary to strengthen the company 's operations , however .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: $tsla i see more downside in next two weeks be careful -20 dollars drop potential vs +10 up moved
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: the result will also be burdened by increased fixed costs associated with operations in china , and restructuring costs in japan .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: investors will continue being interested in the company 's share although it is not quite cheap , affarsvarlden said .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: sales by seppala diminished by 6 per cent .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: external net sales from the printing business fell by 43.7 % , partly due to the termination of the printing contract between ilkka-yhtyma 's printing house i-print oy and sector player hss media ab in december 2009 and the fall in printing prices .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: operating profit for continuing operations fell to eur 48.3 mn from eur 72.4 mn in the first half of 2007 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: in 2009 , comptel slipped to a net loss of eur2 .1 m from a profit of eur6 .6 m in the previous year .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: viking line head jan kaarstroem told tt that his company 's ferries were well equipped to handle ice and that all the passengers were safe .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: finnish sports equipment company amer sports said it has decided to lay off 370 workers from its salomon division in france .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: in food trade , sales amounted to eur320 .1 m , a decline of 1.1 % .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: nyrstar has also agreed to supply to talvivaara up to 150,000 tonnes of sulphuric acid per annum for use in talvivaara 's leaching process during the period of supply of the zinc in concentrate .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: pre-tax loss totaled eur 0.3 mn , compared to a loss of eur 2.2 mn in the first quarter of 2005 .
+Истинный класс: positive (2)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: profit before taxes decreased by 9 % to eur 187.8 mn in the first nine months of 2008 , compared to eur 207.1 mn a year earlier .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: $kior my god. market getting crushed today. gotta hold if anything g should recover some tomorrow i imagine.
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: $plug bear raid
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: thanks to the multiplying effect of wagon performance , transport will be much more efficient , '' says development manager juha malkia from vr cargo .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: viking line has canceled some services .
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: altogether finnair has canceled over 500 flights because of the strike .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: $spy tomorrow party time for the bears!! $goog and $msft -5.5%
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: ( adp news ) - feb 4 , 2009 - finnish broadband data communication systems and solutions company teleste oyj ( hel : tlt1v ) said today its net profit decreased to eur 5.5 million ( usd 7.2 m ) for 2008 from eur 9.4 million for 200
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: the one dark spot on the horizon , however , was the company 's performance in the finnish bottled water market .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: operating loss totaled eur 0.3 mn compared to a profit of eur 2.2 mn in the corresponding period in 2007 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: miners meltdown as bhp to rio tinto sink in commodities rout
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the finnish government announced wednesday that it sold a 32 percent stake in chemicals and fertilizer group kemira oyj for ( x20ac ) 655.6 million ( $ 890us million ) , sending the company 's share price up 6 percent .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: z. bavelloni 's long-standing md , dino bavelloni , has retired at the end of 2005 .
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: operating result for the 12-month period decreased from the profit of eur0 .4 m while turnover decreased from eur5 .6 m , as compared to 2004 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: with the extension of the new contract for a further eight engines , the plant will now produce over 100 mw , it said .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the net sales of the whole fiscal year 2008 will be lower than in 2007 and operating profit is estimated to be negative .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: rt @tomhend777 $mu needs to hold here -broken for now. needs big flush. still not technically oversold so now big bounce yet
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: $aapl afternoon selloff as usual will be brutal. get ready to lose a ton of money.
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the competition was received with great enthusiasm by the employees , he goes on .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: operating profit totaled eur 9.4 mn , down from eur 11.7 mn in 2004 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: during the strike , finnair estimates to incur a net loss of between eur2m and eur2 .5 m per day .
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: ( a spokesperson told wwd to expect a 50-50 mix of clothing and home decor . )
+Истинный класс: neutral (1)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: it will combine and renew the contents and functionality of the current systems for funding and online service as well as their maintenance .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: due to rapid expansion , the market share of tallink in terms of passenger carriage through tallinna sadam port of tallinn totaled 55 percent in november against 45.7 percent in november 2005 .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the airline has ordered nine airbus a350-900 aircraft with deliveries from 2011 , and in doing so becomes the lead airline for the latest variant of rolls-royce trent series engines , called the 1700 .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: ( adp news ) - feb 12 , 2009 - finnish construction company lemminkainen oyj ( hel : lem1s ) said today its net profit decreased to eur 63.5 million ( usd 81.1 m ) for 2008 from eur 80.6 million for 2007 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: navteq has a commanding lead in installed map data systems in north american vehicles and may be the leader in turn-by-turn navigation data offered by services such as onstar in north america , said analyst phil magney of telematics research group in minnetonka , minn. .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: industry investment is very interested in glaston 's solar energy projects .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: compared with the ftse 100 index , which rose 94.9 points ( or 1.6 % ) on the day , this was a relative price change of -0.4 % .
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: in q1 of 2009 , bank of +àland 's net interest income weakened by 10 % to eur 9.1 mn .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: according to sepp+ñnen , the new technology umts900 solution network building costs are by one-third lower than that of the building of 3.5 g networks , operating at 2,100 mhz frequency .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: @louiebeene vwap is 1.63, held the trend line. should be on a lot of radars. $navb
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the operating margin of aker yards cruise & ferries division went down from 8.3 % to 6.4 % in the first quarter of 2007 .
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: the fair value of the company 's investment properties went down to eur 2.768 billion at the end of 2009 from eur 2.916 billion a year earlier .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: ocwen reaches settlement with california regulator
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: by 14:29 cet on monday , shares in bavarian nordic had climbed 1.21 % to dkk250 on the stock exchange in copenhagen after having lost 7.41 % in the past month .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: sales boost for new morrisons chief david potts as tesco turnaround stalls
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: scanfil , a systems supplier and contract manufacturer to the communications sector , will start personnel negotiations in oulu , in finland , to lay off staff temporarily .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: scania morgan stanley lifted the share target on swedish heavy-duty truck and bus maker scania ab to 330 crowns ( $ 42.4 - 35.2 euro ) from 310 crowns ( $ 39.8 - 33.1 euro ) .
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: adpnews - feb 5 , 2010 - finnish real estate investor sponda oyj hel : sda1v said today that it slipped to a net loss of eur 81.5 million usd 11.8 m in 2009 from a profit of eur 29.3 million in 2008 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: operating profit fell to eur 6.2 mn from eur 8.5 mn in the third quarter of 2007 .
+Истинный класс: neutral (1)
+Предсказанный класс: negative (0)
+--------------------------------------------------------------------------------
+Текст: $zsl looking very weak, could be a good short setup.
+Истинный класс: negative (0)
+Предсказанный класс: positive (2)
+--------------------------------------------------------------------------------
+Текст: $tza is a rocket ship!!!
+Истинный класс: positive (2)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
+Текст: short more $faz for all who don't know that means markets will tank now :-p
+Истинный класс: negative (0)
+Предсказанный класс: neutral (1)
+--------------------------------------------------------------------------------
